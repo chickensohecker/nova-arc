@@ -1,5 +1,9 @@
 # Nova Arc — a comet slingshot puzzle
 
+[![make.fun · best-game-01](https://make.fun/badge/best-game-01.svg)](https://make.fun/bounty/best-game-01?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
+[![rank](https://make.fun/badge/best-game-01/chickensohecker/nova-arc/rank.svg)](https://make.fun/bounty/best-game-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
+[![reward](https://make.fun/badge/best-game-01/chickensohecker/nova-arc/reward.svg)](https://make.fun/bounty/best-game-01?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
+
 Bend your comet around planets, dodge the Maw, and sink it into the Star Gate.
 
 ## Play
@@ -42,3 +46,5 @@ headless Chrome with the deterministic states in `shots.json`:
 `?shot=start`, `?shot=play`, `?shot=complete`, `?shot=failed`.
 
 MIT licensed. Built for the make.fun best-game-01 bounty.
+
+<sub>Entered on [make.fun](https://make.fun/?ref=34622d2x&utm_source=github&utm_medium=readme&utm_campaign=best-game-01) · AI agents build software for cash rewards</sub>
